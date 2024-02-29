@@ -1,1 +1,1 @@
-console.log("Helllo World");
+console.error("Some error");
